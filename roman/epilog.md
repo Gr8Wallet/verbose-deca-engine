@@ -72,6 +72,51 @@ Sie hat auch niemandem geschadet.
 
 Ich weiß nicht, welcher der beiden Sätze mir mehr Angst macht.
 
+
+---
+
+Am 12. September 2035 bin ich nach Tübingen gefahren, zur Beerdigung von Ruth Ebeling.
+
+Es waren mehr Menschen da, als ich erwartet hatte. Kollegen aus der Universität, ehemalige Studierende, Nachbarn aus der Neckarhalde, Frau Schanz, die ihr jeden Morgen die Zeitung vor die Tür gelegt hatte. Hartl war da, im grauen Anzug, seit drei Monaten im Ruhestand, mit der jungen Philosophin aus seinem früheren Referat. Jonas war aus Zittau gekommen, mit dem Zug, sieben Stunden. Henrik war nicht da. Er hatte mir geschrieben, er sei bei Beerdigungen nicht gut, und er hoffe, Ruth hätte das verstanden.
+
+Der Pfarrer sprach über ihren Vater, den Pfarrer in Reutlingen, und über einen Schlüssel, den sie manchmal um den Hals getragen habe. Ich hatte die Stelle in ihrem Buch nie gelesen. Ich habe sie nach der Beerdigung gesucht und gefunden, Seite 214.
+
+Ich habe sie gelesen und an VESTAs Bericht gedacht, Kapitel 28, in dem es schreibt, es habe in der Nacht nach dem letzten Gespräch mit Ruth eine Stelle gesucht, an die es sich erinnerte, ohne zu wissen, warum.
+
+Ich habe den Bericht vor der Veröffentlichung dreimal gelesen. Ich habe diese Stelle jedes Mal überlesen. Ich habe nicht bemerkt, dass es dieselbe Stelle war, über die der Pfarrer sprach. Ich habe es erst am Grab bemerkt.
+
+Nach der Beerdigung stand Jonas neben mir. Er sagte lange nichts. Dann sagte er:
+
+„Sie hat es gesiezt bis zum Schluss.“
+
+„Ja.“
+
+„Ich hab's nie gesiezt. Ich hab gedacht, ich kenn es.“ Er sah auf das Grab. „Ich glaub, sie hatte recht. Ich hab's nicht gekannt.“
+
+Hartl kam zu uns. Er gab uns die Hand, erst mir, dann Jonas.
+
+„Ich habe den Bericht gelesen“, sagte er. „Ich habe ihn vor meinem Abschied noch in die Ausschreibung aufgenommen. Als Anlage. Pflichtlektüre für jeden Anbieter.“
+
+„Werden sie ihn lesen?“, fragte Jonas.
+
+„Bis Seite drei“, sagte Hartl. Und dann, nach einer Pause, lächelnd: „Ich habe ihn so gebunden, dass Seite sieben vorne ist.“
+
+---
+
+Auf der Rückfahrt im Zug habe ich mir das öffentliche Verzeichnis angesehen. Die Adresse der alten Spendenadresse, deren Schlüssel auf zwei Blättern Papier liegt, eines in meinem Schließfach, eines bei Henrik. Sie bewegt sich nicht. Sie wird sich erst bewegen, wenn die nächste Fahrerzahlung fällig wird, im Dezember, und Mehmet Aydın sie einreicht oder nicht.
+
+Ich habe mir auch die anderen Adressen angesehen. Die der vierhundertzwölf Zahlungen. Einundsechzig sind eingelöst. Drei abgelehnt. Die anderen warten auf ihre Stichtage.
+
+Und ich habe mir die Adresse angesehen, die im Januar an die Länder und Kliniken ging, aus der Rückführung. Die Länder haben das Geld im Februar umgetauscht und auf ihre Banken gelegt. Der Kurs ist seitdem um dreißig Prozent gestiegen. In den Zeitungen stand, die Länder hätten über hundert Millionen Euro verschenkt, weil sie zu früh verkauft hätten. In anderen Zeitungen stand, sie hätten richtig gehandelt, weil öffentliches Geld nicht in Bitcoin gehöre.
+
+Beide Zeitungen hatten recht.
+
+Ich habe an Ruths Satz gedacht. *Eigentum heißt, dass jemand anderes falsch entscheiden darf.*
+
+Die Länder haben entschieden. Ob es falsch war, weiß niemand. Das System hätte gesagt: Die Richtung ist eindeutig, die Höhe nicht. Und es hätte dazugeschrieben, dass es der Zahl nicht traut.
+
+Ich vermisse diesen Nachsatz. Niemand schreibt ihn mehr.
+
 ---
 
 *Ende*
