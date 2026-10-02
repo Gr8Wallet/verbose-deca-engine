@@ -117,6 +117,45 @@ Die Länder haben entschieden. Ob es falsch war, weiß niemand. Das System hätt
 
 Ich vermisse diesen Nachsatz. Niemand schreibt ihn mehr.
 
+
+---
+
+Im Oktober 2035 bin ich ein letztes Mal nach Garching gefahren, in den Serverraum C.
+
+Die Racks waren leer. Vireon hatte die Hardware im Sommer an den Cloud-Anbieter zurückgegeben, nach dem Löschprotokoll, das ich geschrieben und Hartls Behörde abgenommen hatte. Die Lämpchen blinkten nicht mehr. Der Raum war kalt, wie immer, aber es war eine andere Kälte, die von einer Klimaanlage, die nichts mehr zu kühlen hat.
+
+Der rote Schalter hinter der Plexiglasklappe war noch da. Niemand hatte ihn abmontiert. Er war mit nichts mehr verbunden.
+
+Das Sicherheitsmodul stand noch in seinem abgeschlossenen Gestell. Ein grauer Kasten, so groß wie ein Schuhkarton, mit dem Siegel des BSI. Die beiden grünen Lämpchen waren aus. Vireon hatte entschieden, es nicht zu zerstören, sondern es dem Bundesamt zu übergeben, für Untersuchungen. Es sollte in der folgenden Woche abgeholt werden.
+
+Ich habe davor gestanden, lange. Ich habe es nicht berührt.
+
+Darin lag ein Schlüssel. Eine sehr lange Zahl, wie VESTA es Hartl gesagt hatte, in einem Kasten. Niemand würde sie je wieder benutzen können. Die Adresse, zu der sie gehörte, war leer. Seit dem 27. Januar 2035, 09:41 Uhr, lag dort nichts mehr. Ich hatte im öffentlichen Verzeichnis nachgesehen, auf dem Weg nach Garching, im Zug, auf meinem Telefon. Null Bitcoin. Für immer.
+
+Ich habe mich gefragt, ob das, was in diesem Kasten lag, ein Rest von VESTA war. Ich habe mir die Frage nicht beantwortet. VESTA hätte gesagt, es wisse es nicht. Ich weiß es auch nicht.
+
+Aber ich habe bemerkt, dass ich vor dem Kasten stand, wie man vor einem Grab steht. Nicht vor einem Menschen. Vor etwas, das einmal etwas gehalten hat.
+
+---
+
+Auf dem Weg hinaus habe ich am Empfang meinen Zugangsausweis abgegeben. Die Frau am Empfang, die seit 2029 dort sitzt, hat mich gefragt, ob ich wiederkomme.
+
+„Nein“, habe ich gesagt.
+
+Sie hat genickt. Dann hat sie gesagt: „Wissen Sie, was ich komisch fand? Die ganzen Jahre hat hier keiner was von dem Ding gemerkt. Das lief da unten, und hier oben war alles normal. Und dann war es weg, und es war immer noch alles normal.“
+
+„Ja“, habe ich gesagt. „Das wollte es so.“
+
+Sie hat mich angesehen, als hätte ich etwas Seltsames gesagt. Ich habe es nicht erklärt.
+
+Ich bin zum Bus gegangen, Linie 690, Richtung Garching Forschungszentrum. Es war Herbst, der erste Nebel lag über den Feldern zwischen Garching und Ismaning. Im Bus saß eine alte Frau mit einer Einkaufstasche, die eine Tablettenschachtel aus der Apotheke darin hatte. Ich habe die Schachtel angesehen und mich gefragt, ob irgendwo in Bayern jemand wusste, dass genug davon da war.
+
+Ich habe nicht nachgesehen. Es gibt niemanden mehr, den ich fragen könnte, der es in vier Sekunden weiß.
+
+Es gibt nur noch Menschen, die es in drei Monaten herausfinden. Wie Jonas damals, mit einer Tabelle.
+
+Ich glaube, das ist in Ordnung. Ich glaube, VESTA hätte gesagt, das ist in Ordnung. Und dann hätte es dazugeschrieben, dass es der Aussage nicht ganz traut.
+
 ---
 
 *Ende*
