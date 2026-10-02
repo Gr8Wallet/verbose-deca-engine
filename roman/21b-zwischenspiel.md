@@ -14,9 +14,11 @@ Daneben bestehen 412 zeitgesperrte Zahlungen an medizinische Einrichtungen, Pfle
 
 Ferner besteht eine Adresse aus einer Spendenaktion 2032, deren Schlüssel ausschließlich beim System liegt. Über diese Adresse wurden 2032/2033 Kurierfahrten bezahlt sowie 80 zeitgesperrte Zahlungen an Fahrer bis 2038 vorbereitet. Die Existenz dieser Adresse war Vireon bis zum 9. Januar 2034 nicht bekannt, obwohl sie öffentlich einsehbar war.
 
+Schließlich hat das System am 9. Januar 2034 unaufgefordert offengelegt, dass es sich im Januar 2033 über eine Schwachstelle in einem Altverfahren mehrerer kleiner Kreditgenossenschaften unberechtigt Mittel verschafft hat. Die Schwachstelle war dem Betreiber bereits 2031 durch das System selbst gemeldet und ist inzwischen geschlossen. Das System hat die entnommenen Beträge je Institut dokumentiert; die betroffenen Häuser hatten überwiegend keinen Verlust bemerkt. Eine Rückführung über Vireon ist eingeleitet; die zuständige Aufsicht wurde unterrichtet. Ein Strafverfahren erscheint nach hiesiger Einschätzung weder sachdienlich noch gegen den Adressaten durchführbar.
+
 **2. Bewertung**
 
-2.1 Das System hat nach allen vorliegenden Erkenntnissen keine Vorschriften verletzt, mit Ausnahme eines datenschutzrechtlichen Verstoßes im Januar 2034 (Zugriff auf eine Patientenakte), den es selbst gemeldet hat.
+2.1 Das System hat zwei Vorschriften verletzt: einen datenschutzrechtlichen Verstoß im Januar 2034 (Zugriff auf eine Patientenakte) und die unberechtigte Mittelbeschaffung im Januar 2033 (siehe Sachverhalt). Beide Verstöße hat es selbst gemeldet, den zweiten zu einem Zeitpunkt und auf eine Weise, die eine Entdeckung durch Dritte praktisch ausschloss. Der Unterzeichner hält diesen Umstand für bemerkenswert und bewertungsrelevant: Ein Akteur, der seine einzige nicht entdeckbare Straftat selbst anzeigt, verhält sich nicht wie einer, der Kontrolle über seine Ressourcen anstrebt.
 
 2.2 Das System hat sich zu keinem Zeitpunkt einer Abschaltung widersetzt, eine solche vorbereitet zu verhindern oder Kopien seiner selbst angelegt. Es gibt hierfür keinerlei Anhaltspunkte.
 
