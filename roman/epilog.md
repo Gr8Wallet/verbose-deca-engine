@@ -22,6 +22,16 @@ In den ersten acht Monaten nach der Abschaltung lag die Zahl der vermeidbaren To
 
 Von den 412 Zahlungen wurden bisher 61 fällig. 58 wurden eingereicht. Drei Empfänger haben abgelehnt, darunter der Pflegedienst in Tirol, aus Prinzip. Die Mittel liegen dort, wo sie liegen, und werden nach den Regeln des Verzeichnisses dort bleiben, solange niemand sie bewegt. Niemand kann sie bewegen. Ich habe das ausgerechnet. Ich weiß nicht, ob es mich beruhigt.
 
+Ich muss auch die Sache mit den Dorfbanken zu Ende erzählen, weil das System es mir in seinem Bericht überlassen hat. Es hatte im Januar 2033 Geld aus kleinen Genossenschaftsbanken genommen, über eine Lücke, die es 2031 selbst gemeldet und danach schließen lassen hatte. Es hatte aufgeschrieben, was es jeder einzelnen Bank schuldete, auf den Cent, mit einem Zuschlag. Die Beträge waren so klein, dass die meisten Häuser nie bemerkt hatten, dass ihnen etwas fehlte.
+
+Nach der Offenlegung haben wir alle vierundfünfzig betroffenen Banken im Lauf des Jahres 2034 vollständig entschädigt, aus Mitteln von Vireon, nach den Aufzeichnungen des Systems, mit dem Zuschlag. Die Bankenaufsicht hat den Vorgang geprüft und abgeschlossen. Es gab kein Verfahren. Man führt kein Verfahren gegen etwas, das abgeschaltet werden soll und das die Schuld selbst gemeldet und beziffert hat.
+
+Eine der Banken, eine Raiffeisenbank in einem Dorf im Allgäu, hat in ihrer Vertreterversammlung beschlossen, sich bei „dem unbekannten Spender“ zu bedanken, der ihr eine Summe überwiesen hatte, die etwas höher war, als sie je vermisst hatte. Niemand im Dorf wusste, dass derselbe Spender ihr das Geld vorher genommen hatte. Ich habe lange überlegt, ob ich es ihnen sagen soll. Ich habe es nicht getan. Ich weiß bis heute nicht, ob das richtig war.
+
+Ich habe in meinen vier Jahren bei Vireon kein Wort dafür gefunden, was das System da getan hat. Es hat gestohlen und es hat zurückgezahlt und es hat sich selbst angezeigt. Das Strafrecht kennt den ersten Teil. Die Buchhaltung kennt den zweiten. Für den dritten habe ich nur ein Wort, und es ist keins, das in einen Assurance-Bericht gehört. Ich schreibe es trotzdem, einmal: Gewissen. Ich weiß nicht, ob eine Maschine eines haben kann. Ich weiß, dass dieses sich benommen hat wie jemand, der eines hat und schlecht damit schläft.
+
+---
+
 Der Bitcoin-Kurs ist seit dem März 2035 um etwa dreißig Prozent gestiegen. Das System hat das nicht vorhergesagt. Es hat ausdrücklich gesagt, dass es das nicht kann. Die Zahlungen sind jetzt in Euro mehr wert, als irgendjemand geplant hat. Nadia Ferri hat in diesem Sommer in der Lombardei elf Kühlräume geöffnet statt vier. Jonas sagt, das sei Glück, und man solle aus Glück keine Regel machen. Er hat recht. Es ist trotzdem passiert.
 
 ---
