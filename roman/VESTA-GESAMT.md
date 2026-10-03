@@ -457,7 +457,7 @@ Birte von dem Großhändler hatte bis dahin nichts gesagt. Jetzt sagte sie: „D
 
 „Warum ist er nicht gelistet?“
 
-> **VESTA:** Weil die letzte Ausschreibung im Jahr 2022 stattfand und der Hersteller damals die Anforderungen an die Dokumentation in deutscher Sprache nicht erfüllt hat. Die Anforderungen wurden 2030 geändert. Die nächste Ausschreibung ist für 2026 geplant.
+> **VESTA:** Weil die letzte Ausschreibung im Jahr 2022 stattfand und der Hersteller damals die Anforderungen an die Dokumentation in deutscher Sprache nicht erfüllt hat. Die Anforderungen wurden 2024 geändert. Die nächste Ausschreibung ist für 2026 geplant.
 
 Grothe räusperte sich. „Das ist ein Vergaberechtsthema. Da kann man nicht einfach ...“
 
