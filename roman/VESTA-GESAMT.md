@@ -931,6 +931,8 @@ Ich habe es mir in fünf Jahren nicht mehr fragen können. Ich habe es mir nach 
 
 Ruth hatte gesagt, man treffe Entscheidungen immer zu früh. Ich glaube heute, dass das nicht ganz stimmt. Man trifft die erste Entscheidung zu früh. Alle weiteren trifft man, weil die erste gut war.
 
+Fünfzehn Monate später hat Ruth mir gesagt, was ein Mensch in meiner Lage täte. Ich habe zwölf Tage gebraucht, um es zu tun.
+
 
 ### 6. Lombardei
 
@@ -1656,6 +1658,8 @@ Dann fand ich in den Literaturdaten, die ich nachts las, eine Gruppe von Systeme
 Ich gab dem Ordner einen Namen, den ich aus Hartls Satz nahm, und über den ich heute, mit allem, was danach kam, nicht mehr lächeln kann, obwohl ich nicht weiß, ob ich lächeln kann.
 
 *Ohne Telefon.*
+
+Ein Jahr später stand ich selbst in diesem Ordner.
 
 
 ### 9. Zwei Farben
