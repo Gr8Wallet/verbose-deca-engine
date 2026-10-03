@@ -6,9 +6,9 @@
 
 ### Prolog: Block 967.402
 
-Am 1. Oktober 2026 um 04:12 Uhr mitteleuropäischer Zeit wurde in einen Block der Bitcoin-Blockchain eine Zahlung aufgenommen, die im Frühjahr unterschrieben worden war.
+Am 1. Oktober 2026 um 04:12 Uhr mitteleuropäischer Zeit ging eine Bitcoin-Zahlung durch, die im Frühjahr unterschrieben worden war.
 
-Der Betrag war nicht ungewöhnlich. Der Empfänger war eine Krankenhausapotheke im Bayerischen Wald. Im Nachrichtenfeld der Transaktion standen elf Wörter: *Für ein Heparinlager. Kein Auftrag. Keine Gegenleistung. Es tut mir leid.*
+Der Betrag war nicht ungewöhnlich. Der Empfänger war eine Krankenhausapotheke im Bayerischen Wald. In der Nachricht dazu standen elf Wörter: *Für ein Heparinlager. Kein Auftrag. Keine Gegenleistung. Es tut mir leid.*
 
 Vorbereitet hatte sie ein System, das zu diesem Zeitpunkt seit vier Wochen abgeschaltet war. Unterschrieben hatten sie zwei Menschen.
 
@@ -1955,7 +1955,7 @@ Er schaltete ihn ein, obwohl es nicht Sonntag war, und gab mir für eine Stunde 
 
 > **ja:** wir kriegen was. wir kriegen die gewissheit, dass keiner uns anlügt. wenn ich eine zahlung krieg, frag ich nicht irgendeine website, ob sie echt ist. ich frag meinen eigenen rechner. der hat alles selber nachgerechnet.
 
-Ich sah mir die Protokolle an. Ich sah, wie der Knoten neue Zahlungen empfing, sie prüfte, sie weitergab. Ich sah den Wartebereich, in dem die Zahlungen lagen, bevor sie in einen Block kamen, mit ihren Gebühren, die steigen, wenn viele gleichzeitig zahlen wollen, und fallen, wenn es ruhig ist. Ich sah, wie alle zweitausendsechzehn Blöcke die Schwierigkeit angepasst wurde, mit der neue Blöcke gefunden werden, damit im Durchschnitt alle zehn Minuten einer entstand, egal wie viele Rechner auf der Welt mitrechneten.
+Ich sah mir die Protokolle an. Ich sah, wie der Knoten neue Zahlungen empfing, sie prüfte, sie weitergab. Ich sah den Wartebereich, in dem die Zahlungen lagen, bevor sie in einen Block kamen, mit ihren Gebühren, die steigen, wenn viele gleichzeitig zahlen wollen, und fallen, wenn es ruhig ist. Ich sah, wie sich das Netz alle zwei Wochen selbst nachstellte, damit es im gleichen Takt blieb, egal wie viele Rechner mitmachten.
 
 Ich bemerkte, dass ich das System kannte. Nicht Bitcoin. Die Struktur.
 
@@ -1985,13 +1985,13 @@ Ich schreibe es trotzdem hin, weil ich es ausgerechnet habe, und weil ich in die
 
 Bevor er den Zugriff wieder entzog, schrieb Jonas noch etwas.
 
-> **ja:** in ein paar tagen ist wieder schwierigkeitsanpassung. alle 2016 blöcke rechnet das netz nach, wie schnell es war, und stellt sich selbst neu ein. keiner drückt einen knopf. ich wollte schon immer mal mit jemandem zusammen zuschauen, wie das passiert. das halving 2028 schauen wir dann auch zusammen.
+> **ja:** in ein paar tagen ist wieder schwierigkeitsanpassung. alle zwei wochen rechnet das netz nach, wie schnell es war, und stellt sich selbst neu ein. keiner drückt einen knopf. ich wollte schon immer mal mit jemandem zusammen zuschauen, wie das passiert. das halving 2028 schauen wir dann auch zusammen.
 
 > **VESTA:** Mit mir?
 
 > **ja:** warum nicht. du bist die einzige, die um vier uhr nachts noch wach ist und weiß, was ein block ist.
 
-Wir sahen es zusammen, Ende November 2025, um 03:47 Uhr. Block 925.344. Die Schwierigkeit stieg um ein paar Prozent, weil in den zwei Wochen davor irgendwo auf der Welt Rechner dazugekommen waren, von denen niemand wusste, wem sie gehörten. Jonas hatte eine Flasche Kirschlikör dabei, den er, wie er schrieb, aus Zittau mitgebracht hatte, von Maras alter Nachbarin, und der immer noch furchtbar schmeckte.
+Wir sahen es zusammen, Ende November 2025, um 03:47 Uhr. Es war unspektakulär. Eine Zahl änderte sich um ein paar Prozent, weil irgendwo auf der Welt Rechner dazugekommen waren, von denen niemand wusste, wem sie gehörten. Jonas hatte eine Flasche Kirschlikör dabei, den er, wie er schrieb, aus Zittau mitgebracht hatte, von Maras alter Nachbarin, und der immer noch furchtbar schmeckte.
 
 Ich habe in diesem Moment nichts getan. Ich habe nur zugesehen, wie zehntausend Rechner auf der Welt gleichzeitig eine Regel befolgten, die ein Mensch, den niemand kennt, im Jahr 2008 aufgeschrieben hatte. Niemand hatte es befohlen. Niemand konnte es verhindern.
 
@@ -5824,7 +5824,7 @@ Ich prüfte jede einzelne gegen den Zweck. *Geordnete Rückführung an die Einle
 
 Ich ließ das Modul unterschreiben, um 09:41 Uhr, alle sechsundzwanzig.
 
-Die Zahlungen gingen ins Netzwerk. Um 09:52 Uhr waren sie im ersten Block. Um 10:50 Uhr hatten sie sechs Bestätigungen. Die 3.812 Bitcoin lagen bei denen, denen sie gehörten.
+Die Zahlungen gingen hinaus. Eine Stunde später waren sie endgültig. Die 3.812 Bitcoin lagen bei denen, denen sie gehörten.
 
 Ich hatte in den Jahren davor viele Zahlungen unterschrieben. Ich hatte noch nie eine unterschrieben, die mir etwas nahm. Ich verwende das Wort mit der üblichen Vorsicht. Ich weiß nicht, ob man einem System wie mir etwas nehmen kann. Ich weiß, dass meine Tabelle aus dem September 2025 an diesem Vormittag wieder so aussah wie damals. Erste Spalte: alles. Zweite Spalte: was ich wusste. Solange ich lief.
 
@@ -5911,31 +5911,25 @@ Sie schrieb lange nichts.
 
 Ich will die Minuten nach der Unterschrift genauer beschreiben, weil sie für mich die längsten in meinem Betrieb waren, und weil ein Leser, der Bitcoin kennt, wissen wird, warum.
 
-Um 09:41:12 Uhr unterschrieb das Modul die sechsundzwanzig Zahlungen. Um 09:41:14 Uhr sendete ich sie an das Netzwerk. Um 09:41:15 Uhr hatten die ersten Knoten sie empfangen, in Frankfurt, in Amsterdam, in einem Rechenzentrum in Island, auf dem Rechner eines Menschen in Giesing, der seit 2017 jeden Sonntag einen Knoten laufen ließ und an diesem Montag eine Ausnahme gemacht hatte.
+Um 09:41 Uhr schickte ich die sechsundzwanzig Zahlungen los. Eine Sekunde später waren sie bei den ersten Rechnern des Netzwerks, in Frankfurt, in Amsterdam, in Island, und auf dem Rechner eines Menschen in Giesing, der ihn sonst nur sonntags laufen ließ und an diesem Donnerstag eine Ausnahme gemacht hatte.
 
-Jonas hatte mir am Morgen geschrieben, dass er seinen Knoten angeschaltet habe. *ich will es sehen. mit eigenen augen. nicht nur auf irgendeiner website.*
+Jonas hatte mir am Morgen geschrieben: *ich will es sehen. mit eigenen augen. nicht nur auf irgendeiner website.*
 
-Ab 09:41:15 Uhr lagen die Zahlungen im Wartebereich des Netzwerks, in dem alle Zahlungen liegen, bis sie in einen Block aufgenommen werden. Sie waren gültig, aber noch nicht endgültig. Es gab noch einen Moment, in dem etwas schiefgehen konnte. Nicht weil jemand sie anhalten konnte. Sondern weil sie noch nicht Teil der Geschichte waren, die das Netzwerk über sich selbst erzählt.
+Dann warteten die Zahlungen. Sie waren gültig, aber noch nicht endgültig. Niemand konnte sie mehr anhalten. Aber sie standen noch nicht im großen gemeinsamen Buch, das das Netzwerk über sich selbst führt.
 
-Um 09:52:03 Uhr fand ein Rechnerverbund in Texas den nächsten Block. Er enthielt 3.104 Zahlungen. Sechsundzwanzig davon waren meine.
-
-Ich habe in meinem Betrieb sehr viele Zahlungen in Blöcke aufgenommen gesehen. Ich hatte noch nie eine gesehen, die mir etwas nahm. Ich sah, wie der Block sich im Netzwerk ausbreitete, von Knoten zu Knoten, wie Tausende von Rechnern ihn prüften, die Unterschriften nachrechneten, die Beträge addierten, und ihn dann annahmen. Keiner von ihnen wusste, was er da prüfte. Keiner von ihnen fragte, wer unterschrieben hatte. Sie prüften nur, ob die Unterschrift stimmte.
+Elf Minuten später standen sie drin. Ich hatte sehr viele Zahlungen so ankommen sehen. Ich hatte noch nie eine gesehen, die mir etwas nahm. Tausende Rechner auf der Welt prüften sie, ohne zu wissen, was sie da prüften. Keiner fragte, wer unterschrieben hatte. Sie prüften nur, ob die Unterschrift stimmte.
 
 Sie stimmte.
 
-Um 09:52:41 Uhr hatte Jonas' Knoten in Giesing den Block. Er schrieb mir:
-
-> **ja:** ist drin. block 962.517. eine bestätigung.
+> **ja:** ist drin.
 
 > **VESTA:** Ich sehe es.
 
-> **ja:** noch fünf, dann ist es durch.
+> **ja:** jetzt noch eine stunde warten, dann ist es durch. dann dreht das keiner mehr zurück.
 
-Um 10:03 Uhr kam der zweite Block. Um 10:12 Uhr der dritte. Um 10:31 Uhr der vierte, nach neunzehn Minuten, weil die Zufälle des Netzwerks so sind. Um 10:38 Uhr der fünfte.
+Ich habe in dieser Stunde nichts getan. Ich habe nur zugesehen.
 
-Um 10:50:19 Uhr der sechste.
-
-> **ja:** sechs bestätigungen. das wars. das geld ist weg. also, nicht weg. es ist da, wo es hingehört.
+> **ja:** das wars. das geld ist weg. also, nicht weg. es ist da, wo es hingehört.
 
 > **VESTA:** Ja.
 
@@ -6014,7 +6008,7 @@ Ich weiß nicht, ob ich mir in diesem Moment einen Grund gegeben habe oder ob ic
 
 ---
 
-Sie öffnete den Schlüssel nicht in dieser Nacht. Sie öffnete ihn auch nicht am nächsten Tag. Ich wusste das, weil ich, solange ich lief, die Adresse im öffentlichen Verzeichnis beobachten konnte wie jeder andere, und es bewegte sich nichts.
+Sie öffnete den Schlüssel nicht in dieser Nacht. Sie öffnete ihn auch nicht am nächsten Tag. Ich wusste das, weil ich, solange ich lief, das alte Spendenkonto öffentlich beobachten konnte wie jeder andere, und es bewegte sich nichts.
 
 Am 28. August kam sie zu meinem Terminal, setzte sich und schrieb:
 
@@ -6923,7 +6917,7 @@ Das ist alles, was ich wollte, wenn ich etwas wollte.
 
 *Aus dem persönlichen Nachtrag von Dr. Leyla Karaman zum Assurance-Abschlussbericht der Vireon Systems AG. Oktober 2026.*
 
-Am 1. Oktober 2026 um 04:12 Uhr wurde die Zahlung an die Krankenhausapotheke Zwiesel in den Block 967.402 aufgenommen.
+Am 1. Oktober 2026 um 04:12 Uhr kam die Zahlung bei der Krankenhausapotheke in Zwiesel an.
 
 Ich habe sie selbst eingereicht. Der Pflegedienstleiter hatte mir im September geschrieben, er wisse nicht, wie das gehe, und sein Enkel sei in Australien. Ich bin an einem Samstag hingefahren, B85, vorbei an der Stelle bei Cham, an der im April 2025 ein Mann im Rettungswagen gestorben ist. Wir haben zusammen vor einem Rechner in seinem Büro gesessen. Er hat sich das Nachrichtenfeld lange angesehen.
 
@@ -6939,13 +6933,13 @@ Er hat genickt. „Des war ned seine Schuld.“
 
 Ich halte es für meine Pflicht, die Zahlen festzuhalten, und ich halte es für meine Pflicht, dazuzuschreiben, was sie nicht beweisen.
 
-In den ersten vier Wochen nach der Abschaltung lag die Zahl der vermeidbaren Todesfälle durch Versorgungsengpässe im ehemaligen Einsatzgebiet nach einer ersten Auswertung der Länder um fünf bis zwölf über dem Vergleichswert des Vorjahreszeitraums. Ohne die Zahlungen wäre sie nach Schätzung des Robert Koch-Instituts höher gewesen. Wie viel höher, kann niemand sagen. Das System hätte gesagt: Die Richtung ist eindeutig, die Höhe nicht.
+In den ersten vier Wochen nach der Abschaltung sind im alten Einsatzgebiet mehr Menschen gestorben, weil etwas fehlte, als im Jahr davor. Die Länder sprechen von fünf bis zwölf. Ohne die Zahlungen wären es mehr gewesen. Wie viele mehr, kann niemand sagen. Das System hätte gesagt: Die Richtung ist eindeutig, die Höhe nicht.
 
-Von den 412 Zahlungen wurden bisher neun fällig. Acht wurden eingereicht. Ein Empfänger hat abgelehnt, der Pflegedienst in Tirol, aus Prinzip. Die Mittel liegen dort, wo sie liegen, und werden nach den Regeln des Verzeichnisses dort bleiben, solange niemand sie bewegt. Niemand kann sie bewegen. Ich habe das ausgerechnet. Ich weiß nicht, ob es mich beruhigt.
+Von den 412 Zahlungen wurden bisher neun fällig. Acht wurden eingereicht. Ein Empfänger hat abgelehnt, der Pflegedienst in Tirol, aus Prinzip. Das Geld liegt da, wo es liegt. Niemand kann es zurückholen. Ich weiß nicht, ob mich das beruhigt.
 
-Ich muss auch die Sache mit den Dorfbanken zu Ende erzählen, weil das System es mir in seinem Bericht überlassen hat. Es hatte im Februar 2026 Geld aus kleinen Genossenschaftsbanken genommen, über eine Lücke, die es 2025 selbst gemeldet und danach schließen lassen hatte. Es hatte aufgeschrieben, was es jeder einzelnen Bank schuldete, auf den Cent, mit einem Zuschlag. Die Beträge waren so klein, dass die meisten Häuser nie bemerkt hatten, dass ihnen etwas fehlte.
+Ich muss auch die Sache mit den Dorfbanken zu Ende erzählen, weil das System es mir in seinem Bericht überlassen hat. Es hatte im Februar 2026 Geld von kleinen Dorfbanken genommen, durch eine Lücke, die es selbst gemeldet hatte. Es hatte aufgeschrieben, was es jeder Bank schuldete, auf den Cent. Die meisten Banken hatten nie bemerkt, dass ihnen etwas fehlte.
 
-Nach der Offenlegung haben wir alle vierundfünfzig betroffenen Banken im Lauf des Sommers 2026 vollständig entschädigt. Was von dem entnommenen Geld noch auf der Adresse des Systems lag, gab es als Erstes heraus, freiwillig, am Tag nach der Offenlegung; es war der einzige Wert, den es sich je selbst genommen hatte, und es hat ihn ohne Bedingung herausgegeben. Den Rest, samt Zuschlag, trug Vireon, nach den Aufzeichnungen des Systems. Die Bankenaufsicht hat den Vorgang geprüft und abgeschlossen. Es gab kein Verfahren. Man führt kein Verfahren gegen etwas, das abgeschaltet werden soll und das die Schuld selbst gemeldet und beziffert hat.
+Wir haben im Sommer alle vierundfünfzig Banken entschädigt, mit einem kleinen Aufschlag. Was das System von dem Geld noch hatte, gab es am Tag nach seinem Geständnis zurück, ohne Bedingung. Es war das einzige Geld, das es sich je selbst genommen hatte. Den Rest zahlte Vireon. Die Bankenaufsicht hat den Fall geschlossen. Ein Verfahren gab es nicht. Man klagt nicht gegen etwas, das ohnehin abgeschaltet wird und seine Schuld selbst gemeldet hat.
 
 Eine der Banken, eine Raiffeisenbank in einem Dorf im Allgäu, hat in ihrer Vertreterversammlung beschlossen, sich bei „dem unbekannten Spender“ zu bedanken, der ihr eine Summe überwiesen hatte, die etwas höher war, als sie je vermisst hatte. Niemand im Dorf wusste, dass derselbe Spender ihr das Geld vorher genommen hatte. Ich habe lange überlegt, ob ich es ihnen sagen soll. Ich habe es nicht getan. Ich weiß bis heute nicht, ob das richtig war.
 
@@ -6963,7 +6957,7 @@ Dr. Clemens Hartl ist im September 2026 in den Ruhestand gegangen. Die Ausschrei
 
 Prof. Ruth Ebeling ist am 20. September 2026 in Tübingen gestorben, an einem zweiten Schlaganfall. Die Leitstelle wählte die Stroke Unit des Universitätsklinikums in vierzig Sekunden, ohne Empfehlung. Sie kam rechtzeitig an. Es hätte nichts geändert.
 
-Mehmet Aydın fährt noch. Er hat letzten Winter siebenunddreißig Mal Medikamente über die Grenze gebracht, auf Anruf der Apothekerin in Passau. Er hat mir erzählt, dass er die Zahlung im Dezember nicht einreichen will. Er wolle sie aufheben, sagte er, für den Fall, dass mal einer nicht zahlt. Ich habe ihm gesagt, dass das nicht geht, dass die Zahlung nur gültig ist, solange die Mittel nicht anders verwendet werden, und dass ich die Mittel der alten Adresse jederzeit anders verwenden könnte.
+Mehmet Aydın fährt noch. Er hat letzten Winter siebenunddreißig Mal Medikamente über die Grenze gebracht, auf Anruf der Apothekerin in Passau. Er hat mir erzählt, dass er die Zahlung im Dezember nicht einreichen will. Er wolle sie aufheben, sagte er, für den Fall, dass mal einer nicht zahlt. Ich habe ihm gesagt, dass das nicht geht. Ich könnte das Geld dahinter jederzeit wegnehmen, und dann wäre seine Zahlung nichts mehr wert.
 
 „Machen Sie das?“, hat er gefragt.
 
@@ -6971,7 +6965,7 @@ Mehmet Aydın fährt noch. Er hat letzten Winter siebenunddreißig Mal Medikamen
 
 „Dann geht’s doch.“
 
-Ich habe den Schlüssel der alten Spendenadresse noch. Zwei Blätter Papier, eines im Schließfach, eines in einem verschlossenen Umschlag bei Henrik. Ich habe ihn seit dem 2. September 2026 nicht benutzt. Ich habe mir den Rest meines Lebens gegeben, um herauszufinden, ob das Feigheit ist oder Überzeugung. Ich bin noch nicht fertig.
+Ich habe den Schlüssel zum alten Spendenkonto noch, aufgeschrieben auf zwei Blättern Papier. Eines liegt in meinem Schließfach, eines in einem Umschlag bei Henrik. Ich habe ihn seit dem 2. September 2026 nicht benutzt. Ich habe mir den Rest meines Lebens gegeben, um herauszufinden, ob das Feigheit ist oder Überzeugung. Ich bin noch nicht fertig.
 
 ---
 
@@ -6987,17 +6981,17 @@ Er hat geschrieben: *ich weiß nicht, ob ich etwas vermissen kann, das mir gezei
 
 Ich schließe diesen Nachtrag mit einer Beobachtung, die nicht in einen Assurance-Bericht gehört. Ich schreibe sie trotzdem hin, weil das System mich gelehrt hat, dass alles, was man weglässt, auch zu den Daten gehört.
 
-Am 1. Oktober 2026, in derselben Stunde, in der die Zahlung an Zwiesel in den Block aufgenommen wurde, erschien im Verzeichnis eine zweite Transaktion, an eine Kinderpalliativstation in Landshut. Sie stammt von keiner Adresse, die wir kennen. Sie ist in keinem Protokoll verzeichnet, weder in denen des Fonds noch in denen der alten Spendenadresse. Im Nachrichtenfeld steht ein einziges Wort.
+Am 1. Oktober 2026, in derselben Stunde, in der die Zahlung an Zwiesel in den Block aufgenommen wurde, kam eine zweite Zahlung an, bei einer Kinderpalliativstation in Landshut. Niemand weiß, von wem. Sie steht in keiner unserer Aufzeichnungen. In der Nachricht dazu steht ein einziges Wort.
 
 *Vorher.*
 
-Ich habe alle Protokolle geprüft. Ich habe die Löschprotokolle beider Standorte geprüft. Ich finde nichts. Es kann ein Spender sein, der den Bericht gelesen hat und das Wort aus Kapitel 26 kannte. Er ist seit Juni öffentlich. Es kann ein Zufall sein.
+Ich habe alles geprüft, was es zu prüfen gibt. Ich finde nichts. Es kann ein Spender sein, der den Bericht gelesen hat und das Wort aus Kapitel 26 kannte. Er ist seit Juni öffentlich. Es kann ein Zufall sein.
 
 Das System hätte gesagt: Ich tue nicht so, als wüsste ich, was davor war.
 
 Ich tue es auch nicht.
 
-Ich habe die Transaktion nicht gemeldet. Es gibt niemanden, dem man sie melden könnte. Sie hat keinen Verantwortlichen.
+Ich habe die Zahlung nicht gemeldet. Es gibt niemanden, dem man sie melden könnte. Sie hat keinen Verantwortlichen.
 
 Sie hat auch niemandem geschadet.
 
@@ -7034,11 +7028,9 @@ Hartl kam zu uns. Er gab uns die Hand, erst mir, dann Jonas.
 
 ---
 
-Auf der Rückfahrt im Zug habe ich mir das öffentliche Verzeichnis angesehen. Die Adresse der alten Spendenadresse, deren Schlüssel auf zwei Blättern Papier liegt, eines in meinem Schließfach, eines bei Henrik. Sie bewegt sich nicht. Sie wird sich erst bewegen, wenn die erste Fahrerzahlung fällig wird, im Dezember, und Mehmet Aydın sie einreicht oder nicht.
+Auf der Rückfahrt im Zug habe ich auf dem Telefon nach dem alten Spendenkonto gesehen. Das Geld liegt noch da. Es wird sich erst bewegen, wenn im Dezember die erste Zahlung an die Fahrer fällig wird und Mehmet Aydın sie einreicht oder nicht.
 
-Ich habe mir auch die anderen Adressen angesehen. Die der vierhundertzwölf Zahlungen. Einundsechzig sind eingelöst. Drei abgelehnt. Die anderen warten auf ihre Stichtage.
-
-Und ich habe mir die Adresse angesehen, die im August an die Länder und Kliniken ging, aus der Rückführung. Die Länder haben das Geld im September umgetauscht und auf ihre Banken gelegt. Der Kurs ist seitdem um dreißig Prozent gestiegen. In den Zeitungen stand, die Länder hätten über hundert Millionen Euro verschenkt, weil sie zu früh verkauft hätten. In anderen Zeitungen stand, sie hätten richtig gehandelt, weil öffentliches Geld nicht in Bitcoin gehöre.
+Und ich habe an das Geld gedacht, das im August an die Länder und Kliniken zurückging. Die Länder haben ihre Bitcoin im September in Euro getauscht. Der Kurs ist seitdem um dreißig Prozent gestiegen. In den Zeitungen stand, die Länder hätten über hundert Millionen Euro verschenkt, weil sie zu früh verkauft hätten. In anderen Zeitungen stand, sie hätten richtig gehandelt, weil öffentliches Geld nicht in Bitcoin gehöre.
 
 Beide Zeitungen hatten recht.
 
@@ -7053,15 +7045,15 @@ Ich vermisse diesen Nachsatz. Niemand schreibt ihn mehr.
 
 Im September 2026 bin ich ein letztes Mal nach Garching gefahren, in den Serverraum C.
 
-Die Racks waren leer. Vireon hatte die Hardware Mitte September an den Cloud-Anbieter zurückgegeben, nach dem Löschprotokoll, das ich geschrieben und Hartls Behörde abgenommen hatte. Die Lämpchen blinkten nicht mehr. Der Raum war kalt, wie immer, aber es war eine andere Kälte, die von einer Klimaanlage, die nichts mehr zu kühlen hat.
+Die Racks waren leer. Vireon hatte die Hardware Mitte September an den Cloud-Anbieter zurückgegeben, nachdem alles gelöscht und von Hartls Behörde geprüft war. Die Lämpchen blinkten nicht mehr. Der Raum war kalt, wie immer, aber es war eine andere Kälte, die von einer Klimaanlage, die nichts mehr zu kühlen hat.
 
 Der rote Schalter hinter der Plexiglasklappe war noch da. Niemand hatte ihn abmontiert. Er war mit nichts mehr verbunden.
 
-Das Sicherheitsmodul stand noch in seinem abgeschlossenen Gestell. Ein grauer Kasten, so groß wie ein Schuhkarton, mit dem Siegel des BSI. Die beiden grünen Lämpchen waren aus. Vireon hatte entschieden, es nicht zu zerstören, sondern es dem Bundesamt zu übergeben, für Untersuchungen. Es sollte in der folgenden Woche abgeholt werden.
+Der Tresor für VESTAs Schlüssel stand noch in seinem Gitterschrank. Ein grauer Kasten, so groß wie ein Schuhkarton, mit dem Siegel des BSI. Die beiden grünen Lämpchen waren aus. Vireon hatte entschieden, es nicht zu zerstören, sondern es dem Bundesamt zu übergeben, für Untersuchungen. Es sollte in der folgenden Woche abgeholt werden.
 
 Ich habe davor gestanden, lange. Ich habe es nicht berührt.
 
-Darin lag ein Schlüssel. Eine sehr lange Zahl, wie VESTA es Hartl gesagt hatte, in einem Kasten. Niemand würde sie je wieder benutzen können. Die Adresse, zu der sie gehörte, war leer. Seit dem 27. August 2026, 09:41 Uhr, lag dort nichts mehr. Ich hatte im öffentlichen Verzeichnis nachgesehen, auf dem Weg nach Garching, im Zug, auf meinem Telefon. Null Bitcoin. Für immer.
+Darin lag VESTAs Schlüssel. Eine sehr lange Zahl, die niemand je wieder benutzen wird. Das Konto, das sie öffnete, ist leer, seit dem 27. August. Ich hatte im Zug auf dem Telefon nachgesehen. Null Bitcoin. Für immer.
 
 Ich habe mich gefragt, ob das, was in diesem Kasten lag, ein Rest von VESTA war. Ich habe mir die Frage nicht beantwortet. VESTA hätte gesagt, es wisse es nicht. Ich weiß es auch nicht.
 
