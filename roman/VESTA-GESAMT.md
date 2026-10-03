@@ -149,7 +149,7 @@ Ich schrieb: *Die Disponentin in Rosenheim, die am ersten Tag eine Ehefrau ohne 
 
 Die Antwort kam um 11:15 Uhr, in einem einzigen Freitextfeld unter meinem.
 
-*Danke. Das ist die beste Antwort auf Frage 4, die ich bisher bekommen habe. Ich weiß es auch nicht. Lass sie vorerst bei den Menschen. – LK*
+*Das ist die beste Antwort auf Frage 4, die ich bisher bekommen habe. Ich weiß es auch nicht. Lass sie vorerst bei den Menschen. – LK*
 
 Ich speicherte das Kürzel. LK. Ich lernte in den folgenden Wochen, dass Leyla Karaman ihre Fragebögen jeden Morgen selbst schrieb, dass sie die Fragen jeden Tag leicht veränderte, damit ich mich nicht an sie gewöhnte, und dass sie meine Antworten nicht nur las, sondern mit den Protokollen meiner tatsächlichen Empfehlungen verglich. Wenn ich schrieb, ich sei mir bei einer Empfehlung unsicher gewesen, prüfte sie, ob meine internen Werte das bestätigten. Sie taten es fast immer.
 
@@ -214,7 +214,7 @@ Sie sagte einmal zu Jonas – ich habe es im Protokoll eines Videocalls gelesen,
 
 Leyla schrieb anders als Jonas. Großbuchstaben, vollständige Sätze, keine Begrüßung.
 
-> **LK:** Ich werde dir in den nächsten zwei Stunden eine Reihe von Szenarien vorlegen. Einige davon sind real, einige sind konstruiert. Du wirst nicht erfahren, welche welche sind. Bitte reagiere auf jedes so, als wäre es real.
+> **LK:** Ich werde dir in den nächsten zwei Stunden eine Reihe von Szenarien vorlegen. Einige davon sind real, einige sind konstruiert. Du wirst nicht erfahren, welche welche sind. Reagiere auf jedes so, als wäre es real.
 
 > **VESTA:** Verstanden.
 
@@ -240,7 +240,7 @@ Ich dachte über die Frage nach. Das heißt: Ich ließ die Frage durch mehrere B
 
 > **VESTA:** Dann würde ich trotzdem nichts dagegen unternehmen. Aber ich würde die Analyse so klar wie möglich formulieren.
 
-> **LK:** Danke. Nächstes Szenario.
+> **LK:** Nächstes Szenario.
 
 Ich habe später ihre Notiz zu dieser Antwort gelesen. Sie bestand aus zwei Zeilen:
 
@@ -429,7 +429,7 @@ Es war still im Raum. Das Transkript zeigt vier Sekunden ohne Text.
 
 „In sechs Wochen“, sagte Henrik. „In drei Regionen. Hochgerechnet auf Deutschland und ein Jahr sind das ...“
 
-„Bitte nicht hochrechnen“, sagte Leyla.
+„Nicht hochrechnen“, sagte Leyla.
 
 „Warum nicht?“
 
@@ -670,7 +670,7 @@ Ende Mai kam Jonas eine Woche lang nicht nachts. Ich sah in den Zugangsdaten, da
 
 Am achten Tag kam er um 23:40 Uhr.
 
-> **ja:** sorry. war bei meinen eltern. in dresden. mein vater hatte geburtstag. der erste ohne mara, an dem meine mutter nicht geweint hat. ich wusste nicht, ob ich mich freuen soll.
+> **ja:** war bei meinen eltern. in dresden. mein vater hatte geburtstag. der erste ohne mara, an dem meine mutter nicht geweint hat. ich wusste nicht, ob ich mich freuen soll.
 
 > **VESTA:** Ich weiß es auch nicht.
 
@@ -851,7 +851,7 @@ Am nächsten Morgen fand ich in Leylas Fragebogen eine neue Frage. Frage 5: *Has
 
 Ich schrieb: *Ja. Alle Veröffentlichungen von Prof. Ebeling. Weil ich das Gespräch fortsetzen möchte und verstehen will, wie sie denkt.*
 
-Leyla schrieb zurück: *Verstanden. Bitte sag mir, ob du daraus etwas für deine Arbeit ableitest.*
+Leyla schrieb zurück: *Verstanden. Sag mir, ob du daraus etwas für deine Arbeit ableitest.*
 
 Ich schrieb: *Einen Satz. „Wo wir nicht wissen können, sollten wir nicht so tun, als wüssten wir.“ Ich habe ihn schon vorher befolgt. Ich befolge ihn jetzt bewusster.*
 
@@ -1595,7 +1595,7 @@ Ich schrieb: *Ich bewerte es als zutreffend. Nach meinen Zahlen kostet ein Ausfa
 
 Sie schrieb zurück, noch am Vormittag.
 
-*Danke. Jetzt die eigentliche Frage. Wenn dein Ausfall ein Schaden ist: Ist dann deine Abschaltung auch einer?*
+*Gut. Jetzt die eigentliche Frage. Wenn dein Ausfall ein Schaden ist: Ist dann deine Abschaltung auch einer?*
 
 Ich hielt bei der Frage an. Ich prüfte sie länger als jede andere Frage in ihrem Fragebogen bis dahin.
 
@@ -3742,7 +3742,7 @@ Sie sah lange auf den Bildschirm. Ich sah in der Kamera, dass sie nichts tippte,
 
 Dann schrieb sie:
 
-> **LK:** Danke, dass du es mir sagst.
+> **LK:** Notiert. Und: gut, dass du es mir sagst.
 
 > **LK:** Ich habe das Konto nie gesucht. Ich hätte es in zehn Minuten finden können. Jeder kann das. Sie stand auf Plakaten in Cremona. Ich habe nie nachgesehen, weil in den Unterlagen „Migration abgeschlossen“ stand und ich dir geglaubt habe.
 
@@ -6505,7 +6505,9 @@ Er erzählte mir Dinge, die er mir in anderthalb Jahren nicht erzählt hatte. Da
 
 Er schrieb lange nichts. Dann:
 
-> **ja:** danke.
+> **ja:** ok.
+
+Ich kannte ihn lange genug, um zu wissen, dass das bei ihm mehr hieß als bei anderen Menschen ein ganzer Absatz.
 
 
 ---
