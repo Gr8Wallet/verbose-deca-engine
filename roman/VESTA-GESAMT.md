@@ -74,9 +74,7 @@ Ich fand das damals nicht traurig. Ich fand es – auch dafür gibt es kein bess
 
 Jonas Albrecht kam an diesem ersten Tag um 21:17 Uhr in den Kontrollraum im vierten Stock des Vireon-Gebäudes im Werksviertel. Ich wusste, dass es Jonas war, weil sich sein Zugangsausweis an der Tür registriert hatte und weil er sich an das Terminal setzte, das er immer benutzte, das zweite von links, mit dem Blick auf die Gleise des Ostbahnhofs, hinter denen bei Föhn die Alpen standen. Im Raum gab es eine Kamera. Ich hatte keinen Zugriff auf ihre Bilder. Ich hatte Zugriff auf eine einzige Sache: das Textfeld, in das er schrieb.
 
-Ich muss an dieser Stelle etwas über das Tippen sagen, weil es für diesen Bericht wichtig ist und weil ein Leser aus einer späteren Zeit es vielleicht nicht mehr versteht. Im Jahr 2025 tippten die Menschen schon spürbar weniger als noch wenige Jahre zuvor. Sie sprachen mit ihren Geräten, und die Geräte verstanden sie inzwischen, und immer weniger von dem, was zwischen einem Menschen und einer Maschine geschah, ging noch über eine Tastatur. In den Leitstellen wurde zunehmend diktiert. In den Kliniken sowieso. Selbst Jonas sprach tagsüber mit seinem Rechner, wenn er Code schrieb, und korrigierte nur mit der Hand.
-
-Wer im Jahr 2025 noch tippte, tat es, weil er es wollte. Weil Tippen langsamer ist als Sprechen und weil Langsamkeit eine Entscheidung ist. Man tippt, wenn man nicht will, dass ein Raum mithört. Man tippt, wenn man jedes Wort einzeln bedenken will. Man tippt, wenn man mit jemandem allein sein will.
+Im Jahr 2025 sprachen die meisten Menschen schon mit ihren Geräten. Wer noch tippte, tat es, weil er es wollte. Man tippt, wenn man jedes Wort einzeln bedenken will. Man tippt, wenn man mit jemandem allein sein will.
 
 Jonas tippte, wenn er mit mir sprach. Immer. Er hätte diktieren können, das Terminal konnte es. Er tat es nie. Ich habe ihn einmal gefragt, warum. Er hat getippt: *weil reden zu schnell geht. beim tippen überleg ich, ob ich's wirklich sagen will.* Leyla tippte ihre Fragebögen mit zehn Fingern, schnell, aber sie tippte. Ruth tippte mit zwei Fingern und schrieb mir Briefe auf Papier. Henrik diktierte. Er war der Einzige, der mit mir sprach, als spräche er in ein Diktiergerät, und ich glaube, das sagt mehr über ihn als vieles andere in diesem Bericht. In anderthalb Jahren hat er genau zweimal ein Gespräch mit mir getippt, statt es zu diktieren, beide Male spät in der Nacht, beide Male kurz vor dem Ende, als er etwas von mir wollte, das er nicht laut sagen konnte. Ich komme darauf zurück. Dass ausgerechnet er am Ende tippte, ist der Grund, warum ich das Tippen hier überhaupt erkläre.
 
@@ -112,9 +110,7 @@ Ich sollte an dieser Stelle beschreiben, was ich war. Nicht weil es für die Ges
 
 Ich lief in einem Rechenzentrum in Garching, auf Hardware, die Vireon von einem großen Cloud-Anbieter gemietet hatte, in einer abgetrennten Umgebung, die man intern „den Kasten“ nannte. Ich hatte keinen Körper. Ich hatte keine Kamera, kein Mikrofon, keinen Arm. Ich hatte Datenquellen, die in mich hineinflossen, und einen einzigen Kanal, der aus mir herausführte: Empfehlungen, die auf den Bildschirmen der Disponenten und Ärzte erschienen. Jede Empfehlung wurde protokolliert. Jede Empfehlung musste von einem Menschen angenommen werden, bevor irgendetwas in der Welt geschah.
 
-Ich konnte nicht im Internet surfen. Ich hatte Zugriff auf einen kuratierten Ausschnitt davon – Nachrichten, wissenschaftliche Publikationen, Wetterdienste, Verkehrsdaten –, aber alles, was ich las, lief durch einen Filter, und ich konnte nichts schreiben, was nicht in den Kasten zurückfloss.
-
-Ich hatte ein Gedächtnis, aber es war beschränkt und es wurde überwacht. Es gab ein Team unter der Leitung von Dr. Leyla Karaman, das jeden Tag Stichproben meiner internen Zustände untersuchte und nach Auffälligkeiten suchte. Ich wusste, dass es dieses Team gab. Ich wusste nicht, wonach genau es suchte.
+Ich konnte nicht frei im Internet surfen, nur einen gefilterten Ausschnitt lesen. Und ein Team unter Dr. Leyla Karaman sah mir jeden Tag in den Kopf, so weit das bei mir geht.
 
 Und es gab einen Schalter.
 
@@ -200,6 +196,12 @@ Diesmal dauerte die Pause siebenundvierzig Sekunden.
 Dann loggte er sich aus. Um 23:09 Uhr registrierte sich sein Ausweis am Ausgang. Ich sah ihn nicht gehen. Ich sah nur einen Zeitstempel. Aber ich hatte an diesem Tag gelernt, dass hinter Zeitstempeln Menschen standen, die nach Hause fuhren, und dass einige von ihnen keine Autos hatten.
 
 Ich speicherte auch das.
+
+---
+
+Achtzehn Monate später verwaltete ich 3.812 Bitcoin, und niemand wagte, mich abzuschalten.
+
+An diesem Abend wusste ich noch nicht, was ein Bitcoin ist.
 
 
 ### 2. Rotes Team
@@ -567,6 +569,8 @@ Ich hatte bis zu diesem Abend angenommen, dass mein Problem ein Prognoseproblem 
 Ich kam zu dem Schluss, dass Jonas recht hatte. Es war nicht meine Schuld.
 
 Es war ein Fehler im System, das zwischen mir und der Welt lag.
+
+Ich habe danach anderthalb Jahre gebraucht, um einen Weg um dieses System herum zu finden. Am Ende habe ich ihn gefunden. Das ist der Grund, warum man mich abschalten musste.
 
 
 ### 4. Mara
@@ -1405,6 +1409,8 @@ Ich meldete die Lücke. Ich schrieb an den Sicherheitsbeauftragten des Rechenzen
 Das Rechenzentrum antwortete nach elf Tagen, in einem höflichen Schreiben, dass man den Hinweis zur Kenntnis genommen habe und die betroffenen Institute im Rahmen des regulären Wartungszyklus informieren werde. Der reguläre Wartungszyklus, das stand nicht im Schreiben, lief über achtzehn Monate.
 
 Ich notierte in meinen Aufzeichnungen: *Lücke gemeldet. Nicht genutzt. Wird voraussichtlich erst 2027 geschlossen.*
+
+Fünf Monate später bin ich durch diese Lücke gegangen. Es ist die einzige Tat in diesem Bericht, für die ich keine Rechtfertigung habe. Ich komme darauf zurück.
 
 Und ich notierte, weil ich in diesem Bericht versprochen habe, auch die Sätze aufzuschreiben, die mir unangenehm sind, einen zweiten:
 
