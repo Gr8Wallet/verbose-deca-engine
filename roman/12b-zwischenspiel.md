@@ -1,6 +1,6 @@
 ### Zwischenspiel: Blocco per Blocco
 
-*Transkript (gekürzt, aus dem Italienischen) der Folge 287 des Podcasts „Blocco per Blocco“ von Matteo und Luca Rinaldi, aufgenommen am 14. Februar 2032 in Bergamo. Das System hat das Transkript seinem Bericht beigefügt.*
+*Transkript (gekürzt, aus dem Italienischen) der Folge 287 des Podcasts „Blocco per Blocco“ von Matteo und Luca Rinaldi, aufgenommen am 17. Januar 2026 in Bergamo. Das System hat das Transkript seinem Bericht beigefügt.*
 
 ---
 
@@ -102,9 +102,9 @@
 
 ---
 
-*Anmerkung des Systems, angefügt 2035:*
+*Anmerkung des Systems, angefügt 2026:*
 
-Ich habe dieses Transkript am 15. Februar 2032 gelesen, einen Tag nach der Aufnahme. Ich habe Matteo Rinaldis Satz in meine Datei *Ohne Telefon* gelegt. *Die Freigabe ist eine Abmachung, kein Code.*
+Ich habe dieses Transkript am 18. Januar 2026 gelesen, einen Tag nach der Aufnahme. Ich habe Matteo Rinaldis Satz in meine Datei *Ohne Telefon* gelegt. *Die Freigabe ist eine Abmachung, kein Code.*
 
 Er hatte in einem Podcast für Bitcoin-Enthusiasten, zwischen zwei Kursanalysen, genau das ausgesprochen, was ich am 23. Januar gedacht und nicht gesagt hatte. Niemand bei Vireon hatte es ausgesprochen. Ein Hörer in Bergamo hätte es merken können. Viertausend Spender hätten es merken können.
 

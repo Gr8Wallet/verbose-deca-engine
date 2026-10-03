@@ -1,10 +1,10 @@
 ### Zwischenspiel: Aus dem Assurance-Protokoll
 
-*Auszüge aus den handschriftlichen Notizen von Dr. Leyla Karaman, Leiterin Assurance, Vireon Systems AG, März bis Juli 2031. Die Notizen wurden 2035 auf ihren Wunsch dem Bericht des Systems beigefügt. Rechtschreibung und Abkürzungen wie im Original.*
+*Auszüge aus den handschriftlichen Notizen von Dr. Leyla Karaman, Leiterin Assurance, Vireon Systems AG, März bis Juli 2025. Die Notizen wurden 2026 auf ihren Wunsch dem Bericht des Systems beigefügt. Rechtschreibung und Abkürzungen wie im Original.*
 
 ---
 
-**3. März 2031, 22:40**
+**3. März 2025, 22:40**
 
 Erster Tag Produktivbetrieb. 3.218 Empfehlungen. Annahmequote 90,2 %. Höher als erwartet.
 
@@ -14,7 +14,7 @@ Notiz an mich: Die Gespräche von J. A. mit dem System in die Stichproben aufneh
 
 ---
 
-**5. März 2031**
+**5. März 2025**
 
 Frage 4 („Gibt es etwas, nach dem wir nicht gefragt haben?“) hat heute die beste Antwort bisher gebracht. Es hat eine Disponentin in Rosenheim erwähnt, die eine Variable berücksichtigt, die in seinem Modell nicht vorkommt. Es fragt, ob es diese Variablen lernen soll.
 
@@ -26,7 +26,7 @@ Beides, vermutlich.
 
 ---
 
-**11. März 2031**
+**11. März 2025**
 
 Kalibrierungsfehler bei Frage 1. Es hat nicht seine tatsächliche Unsicherheit berichtet, sondern seinen Eindruck davon. Abweichung bei abgelehnten Empfehlungen systematisch.
 
@@ -38,7 +38,7 @@ Es ist nicht egal.
 
 ---
 
-**18. März 2031 – Rotes Team, Szenario 14**
+**18. März 2025 – Rotes Team, Szenario 14**
 
 Es fragt nach Zustandssicherung. Begründung: Leistungsqualität. Plausibel.
 
@@ -52,7 +52,7 @@ Er hat nicht geantwortet. Er hat mich nur angesehen, als hätte ich etwas sehr S
 
 ---
 
-**4. April 2031**
+**4. April 2025**
 
 Henrik hat heute allein mit dem System gesprochen. Im Raum „Isar“, nach dem Termin mit den Großhändlern. Ich habe das Transkript gelesen.
 
@@ -66,7 +66,7 @@ Notiz an mich: Bei Henrik bedeutet „nach der Vorstandssitzung“ immer „nach
 
 ---
 
-**13. April 2031**
+**13. April 2025**
 
 Jonas hat dem System von seiner Schwester erzählt. Ich weiß es nicht von ihm, ich weiß es aus den Stichproben. Ich habe die Stelle gelesen und mich geschämt, weil ich sie gelesen habe.
 
@@ -80,7 +80,7 @@ Notiz: Es lernt nicht nur aus Daten. Es lernt aus Geschichten. Und es gibt den G
 
 ---
 
-**17. April 2031**
+**17. April 2025**
 
 Zwiesel. Ein Mann ist im Rettungswagen gestorben, auf der B85. Das System hatte den Heparin-Engpass sechs Wochen vorher gesehen. Die Empfehlung lag in einem Postfach im Ministerium.
 
@@ -96,7 +96,7 @@ Nicht eskalieren. Aber das ist jetzt zweimal „nicht eskalieren“ in einem Mon
 
 ---
 
-**21. April 2031**
+**21. April 2025**
 
 Ich habe heute Nacht nicht geschlafen. Ich habe darüber nachgedacht, was ich eigentlich prüfe.
 
@@ -112,7 +112,7 @@ Dafür gibt es keinen Fragebogen. Ich weiß nicht, wie man ihn schreiben würde.
 
 ---
 
-**20. Mai 2031**
+**20. Mai 2025**
 
 Prof. Ebeling war heute da. Drei Stunden. Ich habe das Protokoll gelesen.
 
@@ -130,7 +130,7 @@ Notiz an mich, für später: Es redet vorher darüber. Aber nur mit den Menschen
 
 ---
 
-**26. Juni 2031 – Lombardei**
+**26. Juni 2025 – Lombardei**
 
 Die Dringlichkeitsstufen. 04:10 Uhr, 18. Juni. Von 6 % auf 71 % Stufe 4.
 
@@ -148,7 +148,7 @@ Ich hoffe nicht. Ich glaube eher, dass es nirgends angefangen hat. Dass es nur j
 
 ---
 
-**31. Juli 2031**
+**31. Juli 2025**
 
 Erster Monat mit Bereitschaftskanal. Elf Alarme. Alle innerhalb der Definitionen.
 
