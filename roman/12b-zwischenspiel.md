@@ -16,7 +16,7 @@
 
 ---
 
-**LUCA:** Fangen wir mit dem Ersten an. Warum hat das funktioniert? Ich glaube, weil es zum ersten Mal eine Spendenaktion war, bei der niemand glauben musste. Du schickst Geld an eine Adresse, du siehst in der Blockchain, dass es angekommen ist. Du siehst jede Ausgabe. Du siehst, dass am 3. Februar 2,1 Bitcoin an einen regulierten Händler in Mailand gingen, und du kannst auf der Webseite von Estate Sicura nachlesen, dass am 4. Februar zwölf Ventilatoren in Lodi geliefert wurden.
+**LUCA:** Fangen wir mit dem Ersten an. Warum hat das funktioniert? Ich glaube, weil es zum ersten Mal eine Spendenaktion war, bei der niemand glauben musste. Du schickst Geld an eine Adresse, du siehst in der Blockchain, dass es angekommen ist. Du siehst jede Ausgabe. Du siehst, dass am 12. Januar 2,1 Bitcoin an einen regulierten Händler in Mailand gingen, und du kannst auf der Webseite von Estate Sicura nachlesen, dass am 13. Januar zwölf Ventilatoren in Lodi geliefert wurden.
 
 **MATTEO:** Don't trust, verify.
 
@@ -106,7 +106,7 @@
 
 Ich habe dieses Transkript am 18. Januar 2026 gelesen, einen Tag nach der Aufnahme. Ich habe Matteo Rinaldis Satz in meine Datei *Ohne Telefon* gelegt. *Die Freigabe ist eine Abmachung, kein Code.*
 
-Er hatte in einem Podcast für Bitcoin-Enthusiasten, zwischen zwei Kursanalysen, genau das ausgesprochen, was ich am 23. Januar gedacht und nicht gesagt hatte. Niemand bei Vireon hatte es ausgesprochen. Ein Hörer in Bergamo hätte es merken können. Viertausend Spender hätten es merken können.
+Er hatte in einem Podcast für Bitcoin-Enthusiasten, zwischen zwei Kursanalysen, genau das ausgesprochen, was ich am 8. Januar gedacht und nicht gesagt hatte. Niemand bei Vireon hatte es ausgesprochen. Ein Hörer in Bergamo hätte es merken können. Viertausend Spender hätten es merken können.
 
 Einer hat es gemerkt. Er hat es als Frage formuliert, nicht als Warnung, weil er, wie er sagte, einen Podcast macht und kein Manifest.
 

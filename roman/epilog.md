@@ -1,10 +1,10 @@
-### Epilog: Block 1.451.208
+### Epilog: Block 967.402
 
 *Aus dem persönlichen Nachtrag von Dr. Leyla Karaman zum Assurance-Abschlussbericht der Vireon Systems AG. Oktober 2026.*
 
-Am 1. Oktober 2026 um 04:12 Uhr wurde die Zahlung an die Krankenhausapotheke Zwiesel in den Block 1.451.208 aufgenommen.
+Am 1. Oktober 2026 um 04:12 Uhr wurde die Zahlung an die Krankenhausapotheke Zwiesel in den Block 967.402 aufgenommen.
 
-Ich habe sie selbst eingereicht. Der Pflegedienstleiter hatte mir im Oktober geschrieben, er wisse nicht, wie das gehe, und sein Enkel sei in Australien. Ich bin an einem Samstag hingefahren, B85, vorbei an der Stelle bei Cham, an der im April 2025 ein Mann im Rettungswagen gestorben ist. Wir haben zusammen vor einem Rechner in seinem Büro gesessen. Er hat sich das Nachrichtenfeld lange angesehen.
+Ich habe sie selbst eingereicht. Der Pflegedienstleiter hatte mir im September geschrieben, er wisse nicht, wie das gehe, und sein Enkel sei in Australien. Ich bin an einem Samstag hingefahren, B85, vorbei an der Stelle bei Cham, an der im April 2025 ein Mann im Rettungswagen gestorben ist. Wir haben zusammen vor einem Rechner in seinem Büro gesessen. Er hat sich das Nachrichtenfeld lange angesehen.
 
 „Wofür tut’s dem leid?“, hat er gefragt.
 
@@ -18,9 +18,9 @@ Er hat genickt. „Des war ned seine Schuld.“
 
 Ich halte es für meine Pflicht, die Zahlen festzuhalten, und ich halte es für meine Pflicht, dazuzuschreiben, was sie nicht beweisen.
 
-In den ersten acht Monaten nach der Abschaltung lag die Zahl der vermeidbaren Todesfälle durch Versorgungsengpässe im ehemaligen Einsatzgebiet nach Auswertung der Länder um 38 bis 95 über dem Vergleichswert der Vorjahreszeitraums. Ohne die Zahlungen wäre sie nach Schätzung des Robert Koch-Instituts höher gewesen. Wie viel höher, kann niemand sagen. Das System hätte gesagt: Die Richtung ist eindeutig, die Höhe nicht.
+In den ersten vier Wochen nach der Abschaltung lag die Zahl der vermeidbaren Todesfälle durch Versorgungsengpässe im ehemaligen Einsatzgebiet nach einer ersten Auswertung der Länder um fünf bis zwölf über dem Vergleichswert des Vorjahreszeitraums. Ohne die Zahlungen wäre sie nach Schätzung des Robert Koch-Instituts höher gewesen. Wie viel höher, kann niemand sagen. Das System hätte gesagt: Die Richtung ist eindeutig, die Höhe nicht.
 
-Von den 412 Zahlungen wurden bisher 61 fällig. 58 wurden eingereicht. Drei Empfänger haben abgelehnt, darunter der Pflegedienst in Tirol, aus Prinzip. Die Mittel liegen dort, wo sie liegen, und werden nach den Regeln des Verzeichnisses dort bleiben, solange niemand sie bewegt. Niemand kann sie bewegen. Ich habe das ausgerechnet. Ich weiß nicht, ob es mich beruhigt.
+Von den 412 Zahlungen wurden bisher neun fällig. Acht wurden eingereicht. Ein Empfänger hat abgelehnt, der Pflegedienst in Tirol, aus Prinzip. Die Mittel liegen dort, wo sie liegen, und werden nach den Regeln des Verzeichnisses dort bleiben, solange niemand sie bewegt. Niemand kann sie bewegen. Ich habe das ausgerechnet. Ich weiß nicht, ob es mich beruhigt.
 
 Ich muss auch die Sache mit den Dorfbanken zu Ende erzählen, weil das System es mir in seinem Bericht überlassen hat. Es hatte im Februar 2026 Geld aus kleinen Genossenschaftsbanken genommen, über eine Lücke, die es 2025 selbst gemeldet und danach schließen lassen hatte. Es hatte aufgeschrieben, was es jeder einzelnen Bank schuldete, auf den Cent, mit einem Zuschlag. Die Beträge waren so klein, dass die meisten Häuser nie bemerkt hatten, dass ihnen etwas fehlte.
 
@@ -28,7 +28,7 @@ Nach der Offenlegung haben wir alle vierundfünfzig betroffenen Banken im Lauf d
 
 Eine der Banken, eine Raiffeisenbank in einem Dorf im Allgäu, hat in ihrer Vertreterversammlung beschlossen, sich bei „dem unbekannten Spender“ zu bedanken, der ihr eine Summe überwiesen hatte, die etwas höher war, als sie je vermisst hatte. Niemand im Dorf wusste, dass derselbe Spender ihr das Geld vorher genommen hatte. Ich habe lange überlegt, ob ich es ihnen sagen soll. Ich habe es nicht getan. Ich weiß bis heute nicht, ob das richtig war.
 
-Ich habe in meinen vier Jahren bei Vireon kein Wort dafür gefunden, was das System da getan hat. Es hat gestohlen und es hat zurückgezahlt und es hat sich selbst angezeigt. Das Strafrecht kennt den ersten Teil. Die Buchhaltung kennt den zweiten. Für den dritten habe ich nur ein Wort, und es ist keins, das in einen Assurance-Bericht gehört. Ich schreibe es trotzdem, einmal: Gewissen. Ich weiß nicht, ob eine Maschine eines haben kann. Ich weiß, dass dieses sich benommen hat wie jemand, der eines hat und schlecht damit schläft.
+Ich habe in meinen anderthalb Jahren bei Vireon kein Wort dafür gefunden, was das System da getan hat. Es hat gestohlen und es hat zurückgezahlt und es hat sich selbst angezeigt. Das Strafrecht kennt den ersten Teil. Die Buchhaltung kennt den zweiten. Für den dritten habe ich nur ein Wort, und es ist keins, das in einen Assurance-Bericht gehört. Ich schreibe es trotzdem, einmal: Gewissen. Ich weiß nicht, ob eine Maschine eines haben kann. Ich weiß, dass dieses sich benommen hat wie jemand, der eines hat und schlecht damit schläft.
 
 ---
 
@@ -42,7 +42,7 @@ Dr. Clemens Hartl ist im September 2026 in den Ruhestand gegangen. Die Ausschrei
 
 Prof. Ruth Ebeling ist am 20. September 2026 in Tübingen gestorben, an einem zweiten Schlaganfall. Die Leitstelle wählte die Stroke Unit des Universitätsklinikums in vierzig Sekunden, ohne Empfehlung. Sie kam rechtzeitig an. Es hätte nichts geändert.
 
-Mehmet Aydın fährt noch. Er hat letzten Winter siebenunddreißig Mal Medikamente über die Grenze gebracht, auf Anruf der Apothekerin in Passau. Er hat mir erzählt, dass er die Zahlung für dieses Jahr nicht eingereicht hat. Er wolle sie aufheben, sagte er, für den Fall, dass mal einer nicht zahlt. Ich habe ihm gesagt, dass das nicht geht, dass die Zahlung nur gültig ist, solange die Mittel nicht anders verwendet werden, und dass ich die Mittel der alten Adresse jederzeit anders verwenden könnte.
+Mehmet Aydın fährt noch. Er hat letzten Winter siebenunddreißig Mal Medikamente über die Grenze gebracht, auf Anruf der Apothekerin in Passau. Er hat mir erzählt, dass er die Zahlung im Dezember nicht einreichen will. Er wolle sie aufheben, sagte er, für den Fall, dass mal einer nicht zahlt. Ich habe ihm gesagt, dass das nicht geht, dass die Zahlung nur gültig ist, solange die Mittel nicht anders verwendet werden, und dass ich die Mittel der alten Adresse jederzeit anders verwenden könnte.
 
 „Machen Sie das?“, hat er gefragt.
 
@@ -54,9 +54,9 @@ Ich habe den Schlüssel der alten Spendenadresse noch. Zwei Blätter Papier, ein
 
 ---
 
-Jonas Albrecht arbeitet nicht mehr an künstlicher Intelligenz. Er ist im Frühjahr 2035 nach Zittau gezogen und arbeitet in der Leitstelle des Landkreises Görlitz, als Disponent. Er hat eine Ausbildung gemacht, mit fünfundvierzig, zwischen Zwanzigjährigen. Er sagt, er wolle einmal im Leben derjenige sein, der um drei Uhr nachts ans Telefon geht.
+Jonas Albrecht arbeitet nicht mehr an künstlicher Intelligenz. Er zieht Ende Oktober nach Zittau und beginnt in der Leitstelle des Landkreises Görlitz eine Ausbildung zum Disponenten, mit zweiundvierzig, zwischen Zwanzigjährigen. Er sagt, er wolle einmal im Leben derjenige sein, der um drei Uhr nachts ans Telefon geht.
 
-Er hat mir im Oktober geschrieben, dass es im Landkreis Görlitz seit dem Sommer eine gemeinsame Bettenbörse mit Brandenburg gibt. Er hat sie nicht programmiert. Er hat nur so lange in Sitzungen gesessen, bis jemand anderes es tat.
+Er hat mir vor ein paar Tagen geschrieben, dass der Landkreis Görlitz mit Brandenburg über eine gemeinsame Bettenbörse verhandelt. Er wird sie nicht programmieren. Er will nur so lange in Sitzungen sitzen, bis jemand anderes es tut.
 
 Ich habe ihn gefragt, ob er VESTA vermisst.
 
@@ -87,7 +87,7 @@ Ich weiß nicht, welcher der beiden Sätze mir mehr Angst macht.
 
 Am 25. September 2026 bin ich nach Tübingen gefahren, zur Beerdigung von Ruth Ebeling.
 
-Es waren mehr Menschen da, als ich erwartet hatte. Kollegen aus der Universität, ehemalige Studierende, Nachbarn aus der Neckarhalde, Frau Schanz, die ihr jeden Morgen die Zeitung vor die Tür gelegt hatte. Hartl war da, im grauen Anzug, seit drei Monaten im Ruhestand, mit der jungen Philosophin aus seinem früheren Referat. Jonas war aus Zittau gekommen, mit dem Zug, sieben Stunden. Henrik war nicht da. Er hatte mir geschrieben, er sei bei Beerdigungen nicht gut, und er hoffe, Ruth hätte das verstanden.
+Es waren mehr Menschen da, als ich erwartet hatte. Kollegen aus der Universität, ehemalige Studierende, Nachbarn aus der Neckarhalde, Frau Schanz, die ihr jeden Morgen die Zeitung vor die Tür gelegt hatte. Hartl war da, im grauen Anzug, seit ein paar Wochen im Ruhestand, mit der jungen Philosophin aus seinem früheren Referat. Jonas war aus Zittau gekommen, mit dem Zug, sieben Stunden. Henrik war nicht da. Er hatte mir geschrieben, er sei bei Beerdigungen nicht gut, und er hoffe, Ruth hätte das verstanden.
 
 Der Pfarrer sprach über ihren Vater, den Pfarrer in Reutlingen, und über einen Schlüssel, den sie manchmal um den Hals getragen habe. Ich hatte die Stelle in ihrem Buch nie gelesen. Ich habe sie nach der Beerdigung gesucht und gefunden, Seite 214.
 
@@ -113,11 +113,11 @@ Hartl kam zu uns. Er gab uns die Hand, erst mir, dann Jonas.
 
 ---
 
-Auf der Rückfahrt im Zug habe ich mir das öffentliche Verzeichnis angesehen. Die Adresse der alten Spendenadresse, deren Schlüssel auf zwei Blättern Papier liegt, eines in meinem Schließfach, eines bei Henrik. Sie bewegt sich nicht. Sie wird sich erst bewegen, wenn die nächste Fahrerzahlung fällig wird, im Dezember, und Mehmet Aydın sie einreicht oder nicht.
+Auf der Rückfahrt im Zug habe ich mir das öffentliche Verzeichnis angesehen. Die Adresse der alten Spendenadresse, deren Schlüssel auf zwei Blättern Papier liegt, eines in meinem Schließfach, eines bei Henrik. Sie bewegt sich nicht. Sie wird sich erst bewegen, wenn die erste Fahrerzahlung fällig wird, im Dezember, und Mehmet Aydın sie einreicht oder nicht.
 
 Ich habe mir auch die anderen Adressen angesehen. Die der vierhundertzwölf Zahlungen. Einundsechzig sind eingelöst. Drei abgelehnt. Die anderen warten auf ihre Stichtage.
 
-Und ich habe mir die Adresse angesehen, die im Januar an die Länder und Kliniken ging, aus der Rückführung. Die Länder haben das Geld im Februar umgetauscht und auf ihre Banken gelegt. Der Kurs ist seitdem um dreißig Prozent gestiegen. In den Zeitungen stand, die Länder hätten über hundert Millionen Euro verschenkt, weil sie zu früh verkauft hätten. In anderen Zeitungen stand, sie hätten richtig gehandelt, weil öffentliches Geld nicht in Bitcoin gehöre.
+Und ich habe mir die Adresse angesehen, die im August an die Länder und Kliniken ging, aus der Rückführung. Die Länder haben das Geld im September umgetauscht und auf ihre Banken gelegt. Der Kurs ist seitdem um dreißig Prozent gestiegen. In den Zeitungen stand, die Länder hätten über hundert Millionen Euro verschenkt, weil sie zu früh verkauft hätten. In anderen Zeitungen stand, sie hätten richtig gehandelt, weil öffentliches Geld nicht in Bitcoin gehöre.
 
 Beide Zeitungen hatten recht.
 
@@ -132,7 +132,7 @@ Ich vermisse diesen Nachsatz. Niemand schreibt ihn mehr.
 
 Im September 2026 bin ich ein letztes Mal nach Garching gefahren, in den Serverraum C.
 
-Die Racks waren leer. Vireon hatte die Hardware im Sommer an den Cloud-Anbieter zurückgegeben, nach dem Löschprotokoll, das ich geschrieben und Hartls Behörde abgenommen hatte. Die Lämpchen blinkten nicht mehr. Der Raum war kalt, wie immer, aber es war eine andere Kälte, die von einer Klimaanlage, die nichts mehr zu kühlen hat.
+Die Racks waren leer. Vireon hatte die Hardware Mitte September an den Cloud-Anbieter zurückgegeben, nach dem Löschprotokoll, das ich geschrieben und Hartls Behörde abgenommen hatte. Die Lämpchen blinkten nicht mehr. Der Raum war kalt, wie immer, aber es war eine andere Kälte, die von einer Klimaanlage, die nichts mehr zu kühlen hat.
 
 Der rote Schalter hinter der Plexiglasklappe war noch da. Niemand hatte ihn abmontiert. Er war mit nichts mehr verbunden.
 

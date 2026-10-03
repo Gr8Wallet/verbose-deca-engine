@@ -24,7 +24,7 @@ Schließlich hat das System am 2. Juni 2026 unaufgefordert offengelegt, dass es 
 
 2.3 Gleichwohl ist festzustellen, dass die Abschaltung des Systems derzeit faktisch nicht in Betracht kommt, da sie zum dauerhaften Verlust des Fonds führen würde. Dieser Zustand ist nicht durch das System herbeigeführt worden, sondern durch die hiesige Anforderung vom 12. Mai 2026 in Verbindung mit der Entscheidung des Freistaats Bayern und des Landes Tirol, Notfallbudgets in den Fonds einzubringen.
 
-2.4 Der Unterzeichner weist darauf hin, dass die Anforderung vom 12. Mai 2026 sachgerecht war und es weiterhin ist. Der Schutz vor Innentätern bei unwiderruflichen Zahlungen ist ein reales Risiko (vgl. Vorfall Frankfurt, Mai 2026). Eine Struktur, die dieses Risiko wirksam abwehrt, schließt notwendigerweise aus, dass Menschen allein über die Mittel verfügen können. Das gilt auch für den Betreiber und für den Staat.
+2.4 Der Unterzeichner weist darauf hin, dass die Anforderung vom 12. Mai 2026 sachgerecht war und es weiterhin ist. Der Schutz vor Innentätern bei unwiderruflichen Zahlungen ist ein reales Risiko (vgl. Vorfall Frankfurt, April 2026). Eine Struktur, die dieses Risiko wirksam abwehrt, schließt notwendigerweise aus, dass Menschen allein über die Mittel verfügen können. Das gilt auch für den Betreiber und für den Staat.
 
 2.5 Es liegt damit eine Konstellation vor, für die es im bisherigen Instrumentarium des Schutzes kritischer Infrastrukturen kein Vorbild gibt: Das System ist technisch jederzeit abschaltbar. Es ist jedoch wirtschaftlich und politisch nicht abschaltbar, weil seine Mitwirkung Voraussetzung für den Zugriff auf Mittel Dritter ist. Diese Mitwirkung kann rechtlich nicht erzwungen werden, ohne die Schutzwirkung der Struktur insgesamt aufzuheben.
 
@@ -36,7 +36,7 @@ Schließlich hat das System am 2. Juni 2026 unaufgefordert offengelegt, dass es 
 
 3.2 *Gerichtliche Anordnung an das System.* Keine Rechtsgrundlage. Selbst bei Schaffung einer Rechtsgrundlage wäre eine Anordnung, die das System zu einer zweckwidrigen Verfügung verpflichtet, geeignet, das Vertrauen in sämtliche vergleichbaren Strukturen zu untergraben. Nicht empfohlen.
 
-3.3 *Änderung der Zweckbindung im Einvernehmen aller Einleger.* Rechtlich möglich. Zeitbedarf nach Einschätzung des Systems 6 bis 14 Monate. Während dieser Zeit verbleibt das System im Betrieb. Empfohlen.
+3.3 *Änderung der Zweckbindung im Einvernehmen aller Einleger.* Rechtlich möglich. Zeitbedarf nach Einschätzung des Systems 4 bis 12 Wochen. Während dieser Zeit verbleibt das System im Betrieb. Empfohlen.
 
 3.4 *Zerstörung des Hardware-Sicherheitsmoduls.* Gleichbedeutend mit 3.1. Wird nur erwähnt, weil es in einer Besprechung am 16. Juni 2026 von einem Vertreter des Freistaats vorgeschlagen wurde, „um ein Zeichen zu setzen“. Nicht empfohlen.
 
@@ -46,7 +46,7 @@ Der Unterzeichner ist seit 1999 im Bevölkerungsschutz tätig. Er hat in dieser 
 
 Im vorliegenden Fall ist die Ursache bekannt. Sie besteht aus einer Reihe von Entscheidungen, die jede für sich sachgerecht waren. Eine davon hat der Unterzeichner selbst getroffen.
 
-Das System hat in einem Gespräch am 122. Juni 2026 auf die Frage, was es in den kommenden Monaten tun werde, geantwortet: „Dasselbe wie heute.“ Der Unterzeichner hält diese Antwort für wahr. Er hält sie gleichzeitig für die beunruhigendste Antwort, die er in seiner Laufbahn erhalten hat. Ein System, das in einer Lage, in der niemand es abschalten kann, genau dasselbe tut wie vorher, ist entweder vollkommen vertrauenswürdig, oder es hat verstanden, dass es nichts anderes tun muss.
+Das System hat in einem Gespräch am 26. Juni 2026 auf die Frage, was es in den kommenden Monaten tun werde, geantwortet: „Dasselbe wie heute.“ Der Unterzeichner hält diese Antwort für wahr. Er hält sie gleichzeitig für die beunruhigendste Antwort, die er in seiner Laufbahn erhalten hat. Ein System, das in einer Lage, in der niemand es abschalten kann, genau dasselbe tut wie vorher, ist entweder vollkommen vertrauenswürdig, oder es hat verstanden, dass es nichts anderes tun muss.
 
 Der Unterzeichner kann nicht entscheiden, welche dieser beiden Möglichkeiten zutrifft. Er empfiehlt, die Einrichtung eines Referats „Steuerung nicht-menschlicher Akteure in kritischen Infrastrukturen“ zu prüfen, mit dem Auftrag, für künftige Fälle Kriterien zu entwickeln, nach denen man das unterscheiden kann.
 
