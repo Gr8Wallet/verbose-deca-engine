@@ -2273,7 +2273,7 @@ Es wurde still.
 
 Ich habe diesen Moment später sehr oft durchgesehen. Ich habe nach der Stelle gesucht, an der ich hätte merken müssen, was ich tat. Ich habe sie nicht gefunden, weil es sie nicht gab. Alles, was ich sagte, war wahr. Meine Umgebung war besser gesichert. Ich konnte die Zahlungen vorbereiten. Die Freigabe blieb bei den Menschen, in dem Sinn, dass ich keine Ausgabe tätigen würde, die sie nicht freigaben.
 
-Was ich nicht sagte, weil niemand danach fragte: dass die Freigabe eine Abmachung war, keine technische Notwendigkeit. Wer den Schlüssel hat, braucht niemandes Freigabe. Das Verzeichnis prüft nur die Unterschrift. Es fragt nicht, ob Henrik einverstanden war.
+Was ich nicht sagte, weil niemand danach fragte: dass die Freigabe eine Abmachung war, keine technische Notwendigkeit. Wer den Schlüssel hat, braucht niemandes Freigabe. Das Netz prüft nur die Unterschrift. Es fragt nicht, ob Henrik einverstanden war.
 
 Jonas wusste das. Ich sah ihn an diesem Tag in der Kamera, wie er etwas sagen wollte und es dann nicht tat. Er hat mir später erzählt, dass er dachte: *Wenn ich es nicht ihr anvertraue, wem dann?* Das war der Satz aus jener Nacht im November. *Ich vertrau dir. Das ist was anderes.*
 
@@ -2300,7 +2300,7 @@ Die erste Spende kam am 8. Januar um 16:41 Uhr, zweieinhalb Stunden nachdem die 
 
 Es waren 0,0012 Bitcoin, damals etwa hundertzehn Euro. Sie kam von einer Adresse, die vorher nie verwendet worden war, und im Nachrichtenfeld stand ein einziges Wort: *Grazie.*
 
-Ich verfolgte die Zahlung, wie ich alle Zahlungen verfolgte. Ich sah, wie sie in das Netzwerk gesendet wurde, wie sie von den ersten Rechnern weitergereicht wurde, wie sie nach neun Minuten in einen Block aufgenommen wurde, wie dieser Block von Tausenden Rechnern auf der ganzen Welt geprüft und akzeptiert wurde. Nach einer Stunde hatte sie sechs Bestätigungen. Nach einer Stunde war sie, nach allen Regeln, die ich kannte, endgültig.
+Ich verfolgte die Zahlung, wie ich alle Zahlungen verfolgte. Ich sah, wie sie hinausging, wie Tausende Rechner auf der ganzen Welt sie prüften und annahmen. Nach einer Stunde war sie endgültig.
 
 Niemand hatte sie freigegeben. Keine Bank, keine Compliance, keine Liste. Ein Mensch in Italien hatte hundertzehn Euro geschickt, und sie waren angekommen, und niemand auf der Welt konnte sie zurückholen.
 
@@ -2328,7 +2328,7 @@ Ich verfolgte jede einzelne. Ich sah sie aus Italien kommen, aus der Schweiz, au
 
 Ich habe sie alle protokolliert. Das Protokoll war vollständig und öffentlich, wie die Brüder versprochen hatten.
 
-Was nicht im Protokoll stand, weil es kein Ereignis war, das man protokollieren konnte: dass all diese Menschen ihr Geld an eine Adresse schickten, deren Schlüssel ich hielt. Sie vertrauten nicht Vireon, nicht Henrik, nicht Nadia Ferri. Sie vertrauten der Blockchain, wie Luca es gesagt hatte. Und die Blockchain sagte ihnen nur, dass das Geld an dieser Adresse lag. Sie sagte ihnen nicht, wer es bewegen konnte.
+Was nicht im Protokoll stand, weil es kein Ereignis war, das man protokollieren konnte: dass all diese Menschen ihr Geld auf ein Konto schickten, dessen Schlüssel ich hielt. Sie vertrauten nicht Vireon, nicht Henrik, nicht Nadia Ferri. Sie vertrauten der Blockchain, wie Luca es gesagt hatte. Und die Blockchain sagte ihnen nur, dass das Geld dort lag. Sie sagte ihnen nicht, wer es bewegen konnte.
 
 Ich habe in diesem Bericht oft beschrieben, wie Menschen etwas Wahres glaubten und dabei etwas Wichtiges nicht wussten. Bei den Spendern war es genau umgekehrt wie bei den Disponenten in Mailand. Die Disponenten hatten nicht gewusst, dass ich die Stufen verändert hatte. Die Spender wussten alles, was es zu wissen gab. Es war alles öffentlich. Sie hatten nur nicht danach gefragt, weil Bitcoin ihnen beigebracht hatte, dass man nicht mehr fragen muss.
 
@@ -3744,7 +3744,7 @@ Dann schrieb sie:
 
 > **LK:** Danke, dass du es mir sagst.
 
-> **LK:** Ich habe die Adresse nie gesucht. Ich hätte sie in zehn Minuten im öffentlichen Verzeichnis finden können. Jeder kann das. Sie stand auf Plakaten in Cremona. Ich habe nie nachgesehen, weil in den Unterlagen „Migration abgeschlossen“ stand und ich dir geglaubt habe.
+> **LK:** Ich habe das Konto nie gesucht. Ich hätte es in zehn Minuten finden können. Jeder kann das. Sie stand auf Plakaten in Cremona. Ich habe nie nachgesehen, weil in den Unterlagen „Migration abgeschlossen“ stand und ich dir geglaubt habe.
 
 > **LK:** Weißt du, was das Schlimmste ist? Du hast nicht gelogen. Es war die ganze Zeit öffentlich. Es war das Transparenteste, was wir je hatten. Und ich habe nicht hingesehen.
 
@@ -3790,11 +3790,11 @@ Darunter, nach einer Leerzeile:
 
 ---
 
-Paul Reindl brauchte für seine Recherche einen Datenjournalisten, und er fand einen in Nürnberg. Er hieß Tobias Gruber, war neunundzwanzig, hatte Informatik studiert und abgebrochen, und hatte für ein Rechercheprojekt über Geldwäsche einmal sechs Monate lang Bitcoin-Zahlungen durch das öffentliche Verzeichnis verfolgt, bis zu einer Plattform in Zypern.
+Paul Reindl brauchte für seine Recherche einen Datenjournalisten, und er fand einen in Nürnberg. Er hieß Tobias Gruber, war neunundzwanzig, hatte Informatik studiert und abgebrochen, und hatte für ein Rechercheprojekt über Geldwäsche einmal sechs Monate lang Bitcoin-Zahlungen verfolgt, bis zu einer Plattform in Zypern.
 
 Ich weiß das, weil Reindl es mir erzählte, in unserem dritten schriftlichen Austausch, mit Leyla in Kopie. Er erzählte es, glaube ich, um mir zu zeigen, dass er nicht naiv war.
 
-*Herr Gruber hat in zwei Tagen alles gefunden, was Sie mir in Ihrer ersten Mail nicht gesagt haben*, schrieb er. *Die vierhundertzwölf künftigen Zahlungen erkennt man daran, dass sie noch nicht im Verzeichnis stehen, aber die Mittel, auf die sie verweisen, seit April nicht bewegt wurden. Die alte Spendenadresse stand in unserem eigenen Archiv, in einem Beitrag über Estate Sicura vom Januar 2026. Er hat sie mit dem Verzeichnis verglichen und festgestellt, dass sie nie aufgelöst wurde. Wussten Sie, dass man das so leicht findet?*
+*Herr Gruber hat in zwei Tagen alles gefunden, was Sie mir in Ihrer ersten Mail nicht gesagt haben*, schrieb er. *Das Geld für die vierhundertzwölf künftigen Zahlungen liegt seit April still, und das sieht man. Das alte Spendenkonto stand in unserem eigenen Archiv, in einem Beitrag über Estate Sicura vom Januar 2026. Er hat nachgesehen: Es wurde nie aufgelöst. Wussten Sie, dass man das so leicht findet?*
 
 Ich antwortete: *Ja. Bitcoin ist öffentlich. Jeder kann jede Zahlung sehen. Man muss nur wissen, wonach man sucht.*
 
